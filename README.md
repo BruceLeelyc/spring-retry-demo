@@ -1,11 +1,11 @@
 # spring-retry-demo
 # 添加依赖
-# <dependency>
-#     <groupId>org.springframework.retry</groupId>
-#     <artifactId>spring-retry</artifactId>
-#     <version>1.3.3</version>
-# </dependency>
-#  <dependency>
+<dependency>
+     <groupId>org.springframework.retry</groupId>
+     <artifactId>spring-retry</artifactId>
+     <version>1.3.3</version>
+ </dependency>
+  <dependency>
 #      <groupId>org.springframework.boot</groupId>
 #      <aifactId>spring-boot-starter-aop</artifactId>
 # </dependency>
